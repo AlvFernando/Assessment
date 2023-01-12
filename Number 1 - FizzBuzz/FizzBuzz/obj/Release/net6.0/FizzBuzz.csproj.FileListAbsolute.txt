@@ -1,0 +1,15 @@
+C:\Users\alvin.fernando\source\repos\fizzbuzz\FizzBuzz\bin\Release\net6.0\FizzBuzz.exe
+C:\Users\alvin.fernando\source\repos\fizzbuzz\FizzBuzz\bin\Release\net6.0\FizzBuzz.deps.json
+C:\Users\alvin.fernando\source\repos\fizzbuzz\FizzBuzz\bin\Release\net6.0\FizzBuzz.runtimeconfig.json
+C:\Users\alvin.fernando\source\repos\fizzbuzz\FizzBuzz\bin\Release\net6.0\FizzBuzz.dll
+C:\Users\alvin.fernando\source\repos\fizzbuzz\FizzBuzz\bin\Release\net6.0\FizzBuzz.pdb
+C:\Users\alvin.fernando\source\repos\fizzbuzz\FizzBuzz\obj\Release\net6.0\FizzBuzz.csproj.AssemblyReference.cache
+C:\Users\alvin.fernando\source\repos\fizzbuzz\FizzBuzz\obj\Release\net6.0\FizzBuzz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alvin.fernando\source\repos\fizzbuzz\FizzBuzz\obj\Release\net6.0\FizzBuzz.AssemblyInfoInputs.cache
+C:\Users\alvin.fernando\source\repos\fizzbuzz\FizzBuzz\obj\Release\net6.0\FizzBuzz.AssemblyInfo.cs
+C:\Users\alvin.fernando\source\repos\fizzbuzz\FizzBuzz\obj\Release\net6.0\FizzBuzz.csproj.CoreCompileInputs.cache
+C:\Users\alvin.fernando\source\repos\fizzbuzz\FizzBuzz\obj\Release\net6.0\FizzBuzz.dll
+C:\Users\alvin.fernando\source\repos\fizzbuzz\FizzBuzz\obj\Release\net6.0\refint\FizzBuzz.dll
+C:\Users\alvin.fernando\source\repos\fizzbuzz\FizzBuzz\obj\Release\net6.0\FizzBuzz.pdb
+C:\Users\alvin.fernando\source\repos\fizzbuzz\FizzBuzz\obj\Release\net6.0\FizzBuzz.genruntimeconfig.cache
+C:\Users\alvin.fernando\source\repos\fizzbuzz\FizzBuzz\obj\Release\net6.0\ref\FizzBuzz.dll

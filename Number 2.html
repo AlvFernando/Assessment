@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <style>
+        #itemFour:hover{
+            background-color: yellow;
+        }
+
+        #itemFour{
+            margin-bottom: 30px;
+        }
+
+        #itemThree{
+            margin-bottom: 30px;
+        }
+
+        #itemTwo{
+            margin-bottom: 10px;
+        }
+
+        #itemOne{
+            margin-bottom: 30px;;
+        }
+
+        .clickableButton{
+            cursor: pointer;
+        }
+
+        .container{
+            display: flex;
+            flex-direction: column;
+            justify-content: start;
+            align-items: start;
+            width: 100%;
+            height: 100%;
+        }
+
+        html, body {
+            height:100%;
+        }
+    </style>
+    <div class="container" id="container">
+        <button id="itemOne" onClick="handleAlert()">Alert!</button>
+        <button id="itemTwo" onClick="handleBold()">Bold Text</button>
+        <button id="itemThree" onClick="handleUnbold()">Unbold Text 2</button>
+        <div id="itemFour"><h2>Hover Me!</h2></div>
+        <button id="itemFive" onClick="handleOrientation()">Change display</button>
+    </div>
+    <script>
+        var displayOrientationFlag = 1;
+        function handleAlert(){
+            alert("item one is clicked!");
+        }
+
+        function handleBold(){
+            var element = document.getElementById("itemTwo");
+            element.style.fontWeight = "bold";
+        }
+
+        function handleUnbold(){
+            var element = document.getElementById("itemTwo");
+            element.style.fontWeight = "normal";
+        }
+
+        function handleOrientation(){
+            var element = document.getElementById("container");
+            if(displayOrientationFlag == 1){
+                element.style.justifyContent = "center";
+                element.style.alignItems = "center";
+                displayOrientationFlag = 0;
+            }else{
+                element.style.justifyContent = "start";
+                element.style.alignItems = "start";          
+                displayOrientationFlag = 1;
+            }
+        }
+    </script>
+</body>
+</html>
